@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-model
+  href="http://download.ros.org/schema/package_format3.xsd"
+  schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<package format="3">
+  <name>mp_units_vendor</name>
+  <version>2.4.0</version>
+  <description>
+    Vendor package for mp-units (quantities and units library for C++)
+  </description>
+
+  <maintainer email="tim.clephas@nobleo.nl">Tim Clephas</maintainer>
+
+  <license>Apache-2.0</license>  <!-- The contents of this package -->
+  <license>MIT</license>  <!-- mp-units -->
+
+  <url type="website">https://github.com/mpusz/mp-units</url>
+
+  <author email="tim.clephas@nobleo.nl">Tim Clephas</author>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
+  <buildtool_depend>git</buildtool_depend>
+  <depend>libgsl</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

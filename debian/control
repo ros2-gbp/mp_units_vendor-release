@@ -1,0 +1,12 @@
+Source: ros-kilted-mp-units-vendor
+Section: misc
+Priority: optional
+Maintainer: Tim Clephas <tim.clephas@nobleo.nl>
+Build-Depends: debhelper (>= 9.0.0), git, libgsl-dev, ros-kilted-ament-cmake, ros-kilted-ament-cmake-vendor-package, ros-kilted-ros-workspace
+Homepage: https://github.com/mpusz/mp-units
+Standards-Version: 3.9.2
+
+Package: ros-kilted-mp-units-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libgsl-dev, ros-kilted-ros-workspace
+Description: Vendor package for mp-units (quantities and units library for C++)

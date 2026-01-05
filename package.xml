@@ -5,7 +5,7 @@
 
 <package format="3">
   <name>mp_units_vendor</name>
-  <version>2.4.0</version>
+  <version>2.5.0</version>
   <description>
     Vendor package for mp-units (quantities and units library for C++)
   </description>

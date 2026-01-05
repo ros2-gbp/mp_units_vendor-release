@@ -10,7 +10,7 @@ find_package(ament_cmake_vendor_package REQUIRED)
 
 ament_vendor(${PROJECT_NAME}
   VCS_URL https://github.com/mpusz/mp-units.git
-  VCS_VERSION v2.4.0
+  VCS_VERSION v2.5.0
   VCS_TYPE git
   SOURCE_SUBDIR src
   CMAKE_ARGS

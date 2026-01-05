@@ -1,6 +1,6 @@
 # mp_units_vendor
 
-Vendor package for the [mp-units](https://mpusz.github.io/mp-units/2.4) library.
+Vendor package for the [mp-units](https://mpusz.github.io/mp-units/2.5) library.
 
 ## Usage
 

@@ -1,3 +1,26 @@
+## mp_units_vendor (rolling) - 2.5.0-2
+
+The packages in the `mp_units_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release mp_units_vendor -y --rosdistro rolling` on `Thu, 08 Jan 2026 08:07:50 -0000`
+
+The `mp_units_vendor` package was released.
+
+Version of package(s) in repository `mp_units_vendor`:
+
+- upstream repository: https://github.com/nobleo/mp_units_vendor.git
+- release repository: https://github.com/ros2-gbp/mp_units_vendor-release.git
+- rosdistro version: `2.5.0-1`
+- old version: `2.5.0-1`
+- new version: `2.5.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## mp_units_vendor (kilted) - 2.5.0-2
 
 The packages in the `mp_units_vendor` repository were released into the `kilted` distro by running `/usr/bin/bloom-release mp_units_vendor -y --rosdistro kilted` on `Thu, 08 Jan 2026 08:06:01 -0000`

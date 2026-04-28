@@ -78,5 +78,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/nobleo/mp_units_vendor.git
-    version: 2.5.0
-    version_saved: :{auto}
+    version: :{auto}
